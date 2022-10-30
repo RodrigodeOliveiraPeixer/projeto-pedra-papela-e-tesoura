@@ -22,7 +22,7 @@ co7 = "#e85151"   # red
 fundo = "#3b3b3b"
 
 
-# Configuração da janela
+# Configuração da janelA
 
 janela = Tk()
 janela.title('')
