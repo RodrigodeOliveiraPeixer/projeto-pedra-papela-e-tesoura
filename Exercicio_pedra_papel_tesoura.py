@@ -90,7 +90,7 @@ jogadas = 5
 
 
 
-#função iniciar o jogo
+#Função iniciar o jogo
 
 def  jogar(i):
     global jogadas
