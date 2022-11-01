@@ -6,7 +6,7 @@ from tkinter import ttk
 
 #necessário importar pillow para manipular imagens
 
-from PIL import Image, ImageT
+from PIL import Image, ImageTk
 
 import random
 
